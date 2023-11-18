@@ -1,0 +1,1 @@
+/Users/sachaichbiah/cargohub_libraries/cargohub-rust/target/package/cargohub-0.1.0/target/debug/libcargohub.rlib: /Users/sachaichbiah/cargohub_libraries/cargohub-rust/target/package/cargohub-0.1.0/src/lib.rs
